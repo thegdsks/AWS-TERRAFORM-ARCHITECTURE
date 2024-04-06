@@ -16,7 +16,7 @@ Before you start using this project, ensure you have the following prerequisites
 
 1. **Clone the Repository**: Clone this repository to get started with the project.
    ```sh
-   git clone https://your-repository-url.git
+   git clone [https://your-repository-urlhttps://github.com/gagandua078/AWS-TERRAFORM-ARCHITECTURE.git]
    cd terraform-aws-infrastructure
    ```
 
